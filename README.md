@@ -39,9 +39,9 @@ Your petitioners, ROYAL R. RIFE and VERNE W. THOMPSON, citizens of the United St
 
 set forth in the annexed specifications; and they hereby appoint
 
-> CONRAD C CALDWELL
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CONRAD C CALDWELL
 
-> registration No. 16009
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;registration No. 16009
 
 whose address is 4094 50th Street, San Diego 4, California, their attorney with full power of substitution and revocation, to prosecute this application, to make alterations and amendments therein, to receive the patents, and to transact all business in the Patent Office connected thereto.
 
