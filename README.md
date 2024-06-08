@@ -141,38 +141,38 @@ February, 1944, Journal of Franklin Institutes.
 A great many other virus have been destroyed in the laboratory by subjecting them to radiations of
 electro-magnetic energy of a frequency which is resonant with the lower harmonic equivalent frequency of such virus. A few virus, fungi and bacteria which have been treated and devitalized or destroyed and the frequency on a carrier wave of 4150 K.C. required for their destruction is set forth in the following table:
 
-> Tetanus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;120
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tetanus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;120
 
-> Treponema&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;660
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Treponema&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;660
 
 > -8-
 
 ### [Page 11]
-> Gonorrhea&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;712
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gonorrhea&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;712
 
-> Typhoid&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;712
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Typhoid&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;712
 
-> Staphylococci&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;728
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Staphylococci&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;728
 
-> Pneumonia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;776
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pneumonia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;776
 
-> Streptothrix&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;784
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Streptothrix&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;784
 
-> Bacillus Coli Rod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;800
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bacillus Coli Rod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;800
 
-> Tuberculosis Rod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;803
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuberculosis Rod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;803
 
-> Streptococci&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;880
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Streptococci&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;880
 
-> Tuberculosis Virus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1552
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuberculosis Virus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1552
 
-> Bacillus Coli Virus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1552
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bacillus Coli Virus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1552
 
-> Typhoid Virus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1862
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Typhoid Virus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1862
 
-> Sarcoma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2008
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sarcoma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2008
 
-> Cancer Virus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2128
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cancer Virus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2128
 
 Referring now to Fig. 2 we have illustrated schematically one example of device for treating chemicals in solutions such as the removal of sodium chloride and other chemicals from sea water. The illustration herein shown includes a container designed generally by the numeral 20 containing the chemical solution 21. A plurality of frequency generators such as 22, 25 and 24 are provided for reasons which will be explained later. Each of the frequency generators are conductibly connected to terminal plates 25 and 26 by conductors 27 and 28 respectively.
 
