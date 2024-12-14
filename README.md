@@ -11,18 +11,17 @@ For a better reading, a transcript was taken of the patent, which is not easily 
 ### [Page 1]
 STATE OF CALIFORNIA |
 
+| ss.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ss.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|			
-								
+|	
+				
 COUNTY OF SAND DIEGO |
 
 ROYAL R. RIFE and VERNE W.THOMPSON, the petitioners named in the foregoing application, being sworn, depose and say;
 
 That they are citizens of the United States and residents of San Diego County, State of California; that they verily believe themselves to be the original, first and joint inventors of the improvement in
 
-> MEANS AND PROCESS FOR SEPARATION, TRANSFORMATION, CONTROL, AND EXTRACTION OF MINERALS AND CHEMICALS FROM LIQUIDS, SOLIDS, AND GASSES, AND THE DEVITALIZATION AND/OR CONTROL OF BACTERIA, VIRUS AND FUNGI
+MEANS AND PROCESS FOR SEPARATION, TRANSFORMATION, CONTROL, AND EXTRACTION OF MINERALS AND CHEMICALS FROM LIQUIDS, SOLIDS, AND GASSES, AND THE DEVITALIZATION AND/OR CONTROL OF BACTERIA, VIRUS AND FUNGI
 
 described and claimed in the annexed specifications; that they do not know and do not believe that the same was ever known or used before their invention or discovery thereof, or patented or described in any printed publication in any country before their invention or discovery thereof, or more than one year prior to their application, or in public use or on sale in the United States for more than one year prior to their application; that said invention has not been prior to their application; that said invention has not been patented in any country foreign to the United States on an application filed by themselves or their legal representative or assigns more than twelve months prior to this application; that no application for patent on said improvement has been filed by themselves or their representativen or assigns in any country foreign to the United States.
 
@@ -39,9 +38,9 @@ Your petitioners, ROYAL R. RIFE and VERNE W. THOMPSON, citizens of the United St
 
 set forth in the annexed specifications; and they hereby appoint
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CONRAD C CALDWELL
+CONRAD C CALDWELL
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;registration No. 16009
+registration No. 16009
 
 whose address is 4094 50th Street, San Diego 4, California, their attorney with full power of substitution and revocation, to prosecute this application, to make alterations and amendments therein, to receive the patents, and to transact all business in the Patent Office connected thereto.
 
@@ -141,38 +140,38 @@ February, 1944, Journal of Franklin Institutes.
 A great many other virus have been destroyed in the laboratory by subjecting them to radiations of
 electro-magnetic energy of a frequency which is resonant with the lower harmonic equivalent frequency of such virus. A few virus, fungi and bacteria which have been treated and devitalized or destroyed and the frequency on a carrier wave of 4150 K.C. required for their destruction is set forth in the following table:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tetanus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;120
+ Tetanus 120
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Treponema&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;660
+ Treponema 660
 
 > -8-
 
 ### [Page 11]
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gonorrhea&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;712
+ Gonorrhea 712
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Typhoid&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;712
+ Typhoid 712
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Staphylococci&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;728
+ Staphylococci 728
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pneumonia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;776
+ Pneumonia 776
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Streptothrix&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;784
+ Streptothrix 784
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bacillus Coli Rod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;800
+ Bacillus Coli Rod 800
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuberculosis Rod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;803
+ Tuberculosis Rod 803
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Streptococci&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;880
+ Streptococci 880
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuberculosis Virus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1552
+ Tuberculosis Virus 1552
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bacillus Coli Virus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1552
+ Bacillus Coli Virus 1552
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Typhoid Virus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1862
+ Typhoid Virus 1862
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sarcoma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2008
+ Sarcoma 2008
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cancer Virus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2128
+ Cancer Virus 2128
 
 Referring now to Fig. 2 we have illustrated schematically one example of device for treating chemicals in solutions such as the removal of sodium chloride and other chemicals from sea water. The illustration herein shown includes a container designed generally by the numeral 20 containing the chemical solution 21. A plurality of frequency generators such as 22, 25 and 24 are provided for reasons which will be explained later. Each of the frequency generators are conductibly connected to terminal plates 25 and 26 by conductors 27 and 28 respectively.
 
@@ -195,7 +194,7 @@ The above examples and descriptions are intended as illustrations only, are not 
 > -11-
 
 ### [Page 14]
-> WE CLAIM:
+WE CLAIM:
 
 1\. An apparatus for treating chemical compounds, bacteria, virus or fungi to change the chemical characteristics thereof including; means for generating electrical current having a frequency tunable to the resonant frequencies of said chemical substances, bacteria, virus or fungi, said resonant current being superimposed on a high frequency carrier wave and broadcastable in the form of electro-magnetic energy; and means conductively coupled to said generator for concentrating and directing said electro-magnetic energy at the chemical substance, bacteria, virus or fungi to be treated.
 
@@ -231,6 +230,6 @@ The above examples and descriptions are intended as illustrations only, are not 
 
 [2]	„Arthur Isaac Kendall (left) and Royal Raymond Rife (right)“, Smithsonian Institution Archives, 20. March 2019. https://siarchives.si.edu/collections/siris_arc_397776 (last access 8. June 2024).
 
-[3]	R. E. Seidel und M. E. Winter, „The new microscopes“, J. Frankl. Inst., Bd. 237, No. 2, S. 103–130, Feb. 1944, doi: 10.1016/S0016-0032(44)90203-6.
+[3]	R. E. Seidel und M. E. Winter, „The new microscopes“, J. Frankl. Inst., Bd. 237, No. 2, P. 103–130, Feb. 1944, doi: 10.1016/S0016-0032(44)90203-6.
 
 [4] "Rife-Thompson Patent Application", Copending Application - Serial #512,326 filed May 31, 1955. https://www.rifevideos.com/pdf/pdf_files_for_rifevideos/rife_thompson_patent_application_1956.pdf (last access 8. June 2024).
