@@ -34,7 +34,7 @@ TO THE COMMISSIONER OF PATENTS;
 
 Your petitioners, ROYAL R. RIFE and VERNE W. THOMPSON, citizens of the United States, and residents of San Diego, State of California, whose post office addresses are 3676 Zola St, and 3786 Albatross respectively, pray that letters Patent may be granted to them for an improvement in
 
-> MEANS AND PROCESS FOR SEPARATION, TRANSPORTATION, CONTROL, AND EXTRACTION OF MINERALS AND CHEMICALS FROM LIQUIDS, SOLIDS, AND CASES AND THE DEVITALIZATION AND / OR CONTROL OF BACTERIA, VIRUS AND FUNGI
+MEANS AND PROCESS FOR SEPARATION, TRANSPORTATION, CONTROL, AND EXTRACTION OF MINERALS AND CHEMICALS FROM LIQUIDS, SOLIDS, AND CASES AND THE DEVITALIZATION AND / OR CONTROL OF BACTERIA, VIRUS AND FUNGI
 
 set forth in the annexed specifications; and they hereby appoint
 
