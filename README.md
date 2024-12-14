@@ -144,9 +144,6 @@ electro-magnetic energy of a frequency which is resonant with the lower harmonic
 
  Treponema 660
 
-> -8-
-
-### [Page 11]
  Gonorrhea 712
 
  Typhoid 712
